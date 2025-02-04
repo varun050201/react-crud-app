@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/varun050201/react-crud-app/static/css/main.32700028.css",
+    "main.js": "/varun050201/react-crud-app/static/js/main.142cc13b.js",
+    "index.html": "/varun050201/react-crud-app/index.html",
+    "main.32700028.css.map": "/varun050201/react-crud-app/static/css/main.32700028.css.map",
+    "main.142cc13b.js.map": "/varun050201/react-crud-app/static/js/main.142cc13b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32700028.css",
+    "static/js/main.142cc13b.js"
+  ]
+}
